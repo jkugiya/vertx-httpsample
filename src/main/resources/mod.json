@@ -1,0 +1,9 @@
+{
+
+  // Java verticle
+  "main":"jp.kugiya.httpsample.ServerVerticle",
+  "description":"Put description of your module here",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "j.kugiya",
+
+}
